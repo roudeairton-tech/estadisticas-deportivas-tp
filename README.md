@@ -30,3 +30,6 @@ El sistema permite:
 datos/        # datasets utilizados
 scripts/      # scripts Python
 resultados/   # gráficos y resultados generados
+
+## estado del proyecto
+proyecto en desarrollo.
