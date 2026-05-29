@@ -1,0 +1,11 @@
+equipo_local,equipo_visitante,goles_local,goles_visitante
+Tigres,Leones,2,1
+Halcones,Tiburones,0,0
+Leones,Halcones,3,2
+Tiburones,Tigres,1,4
+Tigres,Halcones,2,2
+Leones,Tiburones,1,0
+Halcones,Leones,1,1
+Tiburones,Halcones,3,2
+Tigres,Tiburones,5,1
+Leones,Tigres,0,2
