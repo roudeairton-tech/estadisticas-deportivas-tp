@@ -30,6 +30,3 @@ El sistema permite:
 datos/        # datasets utilizados
 scripts/      # scripts Python
 resultados/   # gráficos y resultados generados
-
-## QA
-Se realizó validación de resultados y revisión del código fuente.
