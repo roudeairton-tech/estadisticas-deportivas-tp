@@ -2,9 +2,9 @@
 # Estadísticas Deportivas TP
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Hugo (Líder y Organizador)
+- Paco (Desarrollador Técnico)
+- Luis (Revisor y QA)
 
 ## Escenario seleccionado
 Escenario D – Estadísticas de Resultados Deportivos
